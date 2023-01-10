@@ -22,6 +22,7 @@
                 <div class="navbar-header"><a class="navbar-brand" href="select.php">データ一入力</a></div>
                 <div class="navbar-header"><a class="navbar-brand" href="login.php">ログイン</a></div>
                 <div class="navbar-header"><a class="navbar-brand" href="logout.php">ログアウト</a></div>
+                <div class="navbar-header"><a class="navbar-brand" href="select_nolog.php">会員以外の方</a></div>
             </div>
         </nav>
     </header>
